@@ -14,7 +14,7 @@ To create the solid model from given drawing and section the solid model
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
-
+`
 ![image](https://user-images.githubusercontent.com/113594316/198825274-c6a8d3ee-fb19-4641-b915-8d2e000c40a8.png)
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
@@ -41,6 +41,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+![image](https://github.com/Manoj0079940/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/149366208/024e32ff-ef64-4a54-916a-b459a2b4119f)
+
 
 ## RESULT:
 
